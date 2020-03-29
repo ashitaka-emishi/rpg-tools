@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://ashitaka-emishi.github.io/rpg-tools/static/css/main.6d864a29.chunk.css",
+    "main.js": "https://ashitaka-emishi.github.io/rpg-tools/static/js/main.1f28074d.chunk.js",
+    "main.js.map": "https://ashitaka-emishi.github.io/rpg-tools/static/js/main.1f28074d.chunk.js.map",
+    "runtime-main.js": "https://ashitaka-emishi.github.io/rpg-tools/static/js/runtime-main.d9f44f0d.js",
+    "runtime-main.js.map": "https://ashitaka-emishi.github.io/rpg-tools/static/js/runtime-main.d9f44f0d.js.map",
+    "static/js/2.2dc80e20.chunk.js": "https://ashitaka-emishi.github.io/rpg-tools/static/js/2.2dc80e20.chunk.js",
+    "static/js/2.2dc80e20.chunk.js.map": "https://ashitaka-emishi.github.io/rpg-tools/static/js/2.2dc80e20.chunk.js.map",
+    "index.html": "https://ashitaka-emishi.github.io/rpg-tools/index.html",
+    "precache-manifest.0cd8c48de8e12d2de3d348736db279ae.js": "https://ashitaka-emishi.github.io/rpg-tools/precache-manifest.0cd8c48de8e12d2de3d348736db279ae.js",
+    "service-worker.js": "https://ashitaka-emishi.github.io/rpg-tools/service-worker.js",
+    "static/css/main.6d864a29.chunk.css.map": "https://ashitaka-emishi.github.io/rpg-tools/static/css/main.6d864a29.chunk.css.map",
+    "static/js/2.2dc80e20.chunk.js.LICENSE.txt": "https://ashitaka-emishi.github.io/rpg-tools/static/js/2.2dc80e20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f44f0d.js",
+    "static/js/2.2dc80e20.chunk.js",
+    "static/css/main.6d864a29.chunk.css",
+    "static/js/main.1f28074d.chunk.js"
+  ]
+}
